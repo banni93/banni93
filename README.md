@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name's Danny and I'm a second year cyber security student with the open univeristy.
+I'm learning to dabble in all kinds of code and have keen interest in cybersecurity projects and general homelabby stuff.
+
 <!--
 **banni93/banni93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
